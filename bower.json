@@ -1,0 +1,15 @@
+{
+  "name": "angular_material",
+  "version": "0.0.1",
+  "authors": [
+    "Rodrigo Pecci Acorse <rodrigopeccirpa@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
