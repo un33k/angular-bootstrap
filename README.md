@@ -19,13 +19,13 @@ Basic structure
 ├── doc
 ├── img
 ├── js
-│   ├── controllers.js
-│   ├── directives.js
-│   ├── filters.js
-│   ├── main.js
 │   ├── plugins.js
+│   ├── main.js
 │   ├── routes.js
-│   └── services.js
+│   ├── services.js
+│   ├── controllers.js
+│   ├── filters.js
+│   └── directives.js
 ├── .htaccess
 ├── 404.html
 ├── apple-touch-icon-precomposed.png
